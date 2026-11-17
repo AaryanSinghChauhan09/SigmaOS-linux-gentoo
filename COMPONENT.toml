@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-linux-gentoo"
-description = "Gentoo Portage USE-flag source customization bridge"
+description = "SigmaOS component SigmaOS-linux-gentoo"
 version = "0.1.0"
 tier = 3
 
